@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é feito para ajudar a rastrear hábitos das pessoas.
 
+- [Visite o projeto online](https://thalfor.github.io/projectHabits/)
+
 
 
 ## 🔖 Layout
