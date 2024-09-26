@@ -34,13 +34,5 @@ Habits was created to map the users routine so in that way will make it's life e
 
 You can see the layout in [this link](https://www.figma.com/community/file/1195327109778210238). An account at [Figma](https://figma.com) is required, it's free.
 
-## ⏭ Next Steps
-
-Soon to be added:
-
-- User database with login and password so no matter where you'll always have your habits in one click.
-- Possibility of adding and removing habits from your list according to your needs.
-- Possibility of writing bellow the emojis for better understading.
-- Possibility of creating and deleting macro categories so you can group the habits to your needs.
 
 ---
