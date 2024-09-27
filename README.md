@@ -9,7 +9,6 @@ Created to learn more about HTML, CSS, JS. <br/>
   <a href="#-tecnologias">Tech</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Next Steps</a>
 </p>
 
 <br>
