@@ -28,7 +28,7 @@ This project was created using:
 
 Habits was created to map the users routine so in that way will make it's life easier.
 
-- [Check the project out](https://thalfor.github.io/projectHabits/)
+- [Check the project out](https://thalfor.github.io/JS_projectHabits/)
 
 ## 🔖 Layout
 
